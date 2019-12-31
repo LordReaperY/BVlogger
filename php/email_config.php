@@ -1,7 +1,7 @@
 <?php
 	
 	//your email here
-	$to_email = 'kelumpriyadarshanakp@gmail.com';
+	$to_email = 'bisw1jitvlogger@gmail.com';
 	
 	//subject of email you will receive
 	$subject = 'KELUMKP.GITHUB.IO Message';	
