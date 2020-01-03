@@ -4,7 +4,7 @@
 	$to_email = 'bisw1jitvlogger@gmail.com';
 	
 	//subject of email you will receive
-	$subject = 'KELUMKP.GITHUB.IO Message';	
+	$subject = 'BVlogger Message';	
 	
 	//Error Messages
 	$invalid_name = 'Please enter your name.';
